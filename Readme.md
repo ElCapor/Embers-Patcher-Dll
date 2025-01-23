@@ -14,4 +14,10 @@ Put the output file from build to C:\Program Files\Embers\Engine\ThirdParty\NVID
 
 # Credits
 ElCapor - Developer
+
 Lurmog - First patch with ue4ss
+
+# Clown Hall
+https://discord.com/channels/541023736082595850/693996644714283070/782625812339884083
+
+![furry clown](https://github.com/user-attachments/assets/b0965a7e-3462-41bf-862c-e33c76c38111)
